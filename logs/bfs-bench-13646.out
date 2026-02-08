@@ -1,0 +1,33 @@
+Running on node: gal-c1.charlotte.edu
+Start time: Sat Feb  7 07:52:22 PM EST 2026
+
+Building...
+rm -f app main.o
+g++ -std=gnu++17 -Wall -Wextra -I./third_party/rapidjson/include -c -o main.o main.cpp
+g++ -o app main.o -lcurl
+
+Benchmarking...
+
+CASE: tom_hanks_d2  node="Tom Hanks"  depth=2  runs=3
+------------------------------------------------------------
+Run 1:
+Run 2:
+Run 3:
+AVG_REAL_SECONDS: 3.31667
+
+CASE: tom_hanks_d1  node="Tom Hanks"  depth=1  runs=3
+------------------------------------------------------------
+Run 1:
+Run 2:
+Run 3:
+AVG_REAL_SECONDS: 0.16
+
+CASE: tom_hanks_d3  node="Tom Hanks"  depth=3  runs=3
+------------------------------------------------------------
+Run 1:
+Run 2:
+Run 3:
+AVG_REAL_SECONDS: 72.33
+
+End time: Sat Feb  7 07:56:11 PM EST 2026
+Done. Results are in ./results/

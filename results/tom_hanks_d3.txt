@@ -1,0 +1,16 @@
+CASE: tom_hanks_d3  node="Tom Hanks"  depth=3  runs=3
+------------------------------------------------------------
+Run 1:
+real 72.34
+user 0.10
+sys 0.02
+Run 2:
+real 72.33
+user 0.10
+sys 0.02
+Run 3:
+real 72.32
+user 0.10
+sys 0.03
+AVG_REAL_SECONDS: 72.33
+
