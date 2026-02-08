@@ -1,0 +1,45 @@
+Level: 0
+Processing node: Tom Hanks
+Level: 1
+Processing node: The Green Mile
+Processing node: Cast Away
+Processing node: Road to Perdition
+Processing node: Catch Me If You Can
+Processing node: Concert for George
+Processing node: The Ladykillers
+Processing node: The Terminal
+Processing node: The Polar Express
+Processing node: Elvis Has Left the Building
+Processing node: The Da Vinci Code
+Processing node: Charlie Wilson's War
+Processing node: The Pixar Story
+Processing node: The Great Buck Howard
+Processing node: Angels & Demons
+Processing node: Prohibition
+Processing node: Larry Crowne
+Processing node: Extremely Loud and Incredibly Close
+Processing node: Cloud Atlas
+Processing node: Captain Phillips
+Processing node: Saving Mr. Banks
+Processing node: Ithaca
+Processing node: Bridge of Spies
+Processing node: A Hologram for the King
+Processing node: Inferno
+Processing node: Sully
+Processing node: Defying the Nazis: The Sharps' War
+Processing node: California Typewriter
+Processing node: The Circle
+Processing node: The Post
+Processing node: Greyhound
+Processing node: A Beautiful Day in the Neighborhood
+Processing node: News of the World
+Processing node: Borat Subsequent Moviefilm
+Processing node: Finch
+Processing node: Elvis
+Processing node: Pinocchio
+Processing node: A Man Called Otto
+Processing node: Asteroid City
+Processing node: Here
+Exec time: 3.59632
+Visited Nodes Count: 40
+ 
