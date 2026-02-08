@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=gnu++17 -Wall -Wextra -I/home/rank/rapidjson/include
+CXXFLAGS = -std=gnu++17 -Wall -Wextra -I./third_party/rapidjson/include
 LDFLAGS = -lcurl
 
 app: main.o
